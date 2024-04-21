@@ -1,5 +1,5 @@
-# INVERSE-OF-A-MATRIX
-## DATE: 30/03/2024
+# EX-3: INVERSE-OF-A-MATRIX
+## DATE: 16.03.2024
 ## Aim:
 To write a python program to find the inverse of a matrix
 ## Equipment’s required:
@@ -17,6 +17,8 @@ Print & end the program.
 
 ## Program:
 ```
+#Developed by: Rahul M R
+#Register Number: 2305003005
 import numpy as np
 A=np.array([[6,2,3],[3,1,1],[10,3,4]])
 I=np.linalg.inv(A)
